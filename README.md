@@ -32,17 +32,35 @@ ionic3.20.0 + corodva8.0.0 + Angular4+ <br/>
 <a name="获取代码"></a>
 ## 获取代码
 
-# git clone
+* git clone
 git clone https://github.com/sacter/ionicApp
 
-# install dependencies
+* install dependencies
 npm install
 
-# serve with hot reload at localhost:8100
+* serve with hot reload at localhost:8100
 ionic serve
 
-# build for production with minification
+* build for production with minification
 ionic cordova build android/ios --param
 
+<a name="使用插件"></a>
+## 使用插件
+暂无
+
+<a name="使用接口"></a>
+## 使用接口
+暂无
+
+<a name="接口介绍"></a>
+## 接口介绍
+暂无
+
+<a name="使用示例"></a>
+## 使用示例
+暂无
 
 
+<a name="其他"></a>
+## 其他
+项目开发中不断完善。
