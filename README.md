@@ -1,7 +1,7 @@
 # ionicApp
 A ionic and angular App
 
-####目录
+##目录
 
 * [背景介绍](#背景介绍)
 * [项目介绍](#项目介绍)
