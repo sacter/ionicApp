@@ -13,7 +13,7 @@ A ionic and angular App
 * [其他](#其他)
 
 <a name="背景介绍"></a>
-### 背景介绍 
+#### 背景介绍 
 
 学习和使用ionic+Angular+cordova创建APP
 
