@@ -13,7 +13,7 @@ A ionic and angular App
 * [其他](#其他)
 
 <a name="背景介绍"></a>
-## 背景介绍 
+### 背景介绍 
 
 学习和使用ionic+Angular+cordova创建APP
 
@@ -27,10 +27,10 @@ ionic3.20.0 + corodva8.0.0 + Angular4+ <br/>
 后台接口会使用node开发，数据库选用moogodb（部分接口会在其他网站爬取）。<br/>
 
 <a name="使用说明"></a>
-## 使用说明
+### 使用说明
 
 <a name="获取代码"></a>
-## 获取代码
+### 获取代码
 
 git clone
 * git clone https://github.com/sacter/ionicApp
@@ -45,22 +45,22 @@ build for production with minification
 * ionic cordova build android/ios --param
 
 <a name="使用插件"></a>
-## 使用插件
+### 使用插件
 暂无
 
 <a name="使用接口"></a>
-## 使用接口
+### 使用接口
 暂无
 
 <a name="接口介绍"></a>
-## 接口介绍
+### 接口介绍
 暂无
 
 <a name="使用示例"></a>
-## 使用示例
+### 使用示例
 暂无
 
 
 <a name="其他"></a>
-## 其他
+### 其他
 项目开发中不断完善。
