@@ -18,7 +18,7 @@ A ionic and angular App
 学习和使用ionic+Angular+cordova创建APP
 
 <a name="项目介绍"></a>
-## 项目介绍
+### 项目介绍
 
 ionic3.20.0 + corodva8.0.0 + Angular4+ <br/>
 
