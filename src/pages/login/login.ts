@@ -16,6 +16,10 @@ import { TabsPage } from '../tabs/tabs';
 })
 export class LoginPage {
 
+    userMess={
+        name:String,
+        password:String
+    }
     constructor(public navCtrl: NavController, public navParams: NavParams) {
     }
 
