@@ -16,9 +16,9 @@ import { TabsPage } from '../tabs/tabs';
 })
 export class LoginPage {
 
-    userMess={
-        name:String,
-        password:String
+    userMess={ // 用户信息
+        name:'',
+        password:''
     }
     constructor(public navCtrl: NavController, public navParams: NavParams) {
     }
